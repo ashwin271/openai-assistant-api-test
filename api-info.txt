@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Cat Facts",
+        "description": "Get random cat facts via text message every day.",
+        "sample_api_url": "https://catfact.ninja/fact"
+    },
+    {
+        "name": "Bored",
+        "description": "Bored is a free API to find something to do by getting suggestions for random activities.",
+        "sample_api_url": "https://www.boredapi.com/api/activity"
+    },
+    {
+        "name": "Agify.io",
+        "description": "Predict the age of a person based on their name.",
+        "sample_api_url": "https://api.agify.io?name=meelad"
+    },
+    {
+        "name": "Nationalize.io",
+        "description": "Predict the nationality of a person based on their name.",
+        "sample_api_url": "https://api.nationalize.io?name=nathaniel"
+    }
+]
